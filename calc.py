@@ -1,6 +1,6 @@
 import cv2 as cv
 from cvzone.HandTrackingModule import HandDetector
-import time
+
 
 class Button:
     def __init__(self, pos, width, height, value):
